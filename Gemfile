@@ -16,6 +16,8 @@ gem 'jquery-rails'
 gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
+gem 'multipart-post', '2.0.0'
+gem 'omniauth-facebook'
 
 group :development, :test do
   gem 'pry-byebug'
